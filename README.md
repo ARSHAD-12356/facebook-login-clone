@@ -1,2 +1,2 @@
-# facebook-login-clone
+# fb-clone
 Facebook login clone
